@@ -1,4 +1,4 @@
-TDEE 
+TDEE Calculator
 ==
 ## A effective calculator to compute BMI BMR and TDEE.  
 ### Write with Python and tkinter.  
